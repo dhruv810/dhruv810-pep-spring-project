@@ -10,7 +10,6 @@ import com.example.exception.CustomException;
 import com.example.repository.AccountRepository;
 
 @Service
-@Transactional
 public class AccountService {
     AccountRepository accountRepository;
 

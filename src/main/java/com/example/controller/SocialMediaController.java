@@ -1,11 +1,7 @@
 package com.example.controller;
 
-
 import java.util.List;
 
-import org.apache.tomcat.util.json.JSONParser;
-import org.h2.util.json.JSONObject;
-import org.h2.util.json.JSONValue;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
